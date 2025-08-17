@@ -6,3 +6,4 @@ pytz==2023.3
 faker==19.6.2
 selenium==4.15.2
 undetected-chromedriver==3.5.3
+distutils==1.0
