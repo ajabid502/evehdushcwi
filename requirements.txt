@@ -1,0 +1,8 @@
+streamlit==1.31.1
+requests==2.31.0
+stem==1.8.2
+fake-useragent==1.2.1
+pytz==2023.3
+faker==19.6.2
+selenium==4.15.2
+undetected-chromedriver==3.5.3
